@@ -1,0 +1,10 @@
+# filename size amount
+token_1.png | 1 | 20
+# large tokens
+token_2.png | 2 | 5
+token_3.png | 1 | 10
+token_4.png | 3 | 3
+# the biggest ones
+token_6.png | 4 | 2
+token_5.png | 1 | 15
+
